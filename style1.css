@@ -1,0 +1,48 @@
+a{ text-decoration:chartreuse;
+    color: blue;
+
+}
+
+body{
+    background-color:#FDEBF7;
+    
+    
+}
+h1{ text-decoration: underline;
+    color: #c74b9e;
+    text-emphasis: none;
+    
+}
+h2{
+    color: 
+    #FC28FB;
+}
+table,p{
+    text-emphasis: none;
+}
+hr{ border-color: #FFADF0;
+   border-width: 8px;
+    border-style:  none;
+    border-top-style: dotted;
+    width: 80px;
+}
+table{ 
+    margin-bottom:  50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto
+
+
+}
+a:hover{
+    color: rgb(189, 21, 21);
+    background-color: #6dcfec;
+    
+}
+a:visited{
+    color: rgb(18, 70, 94);
+}
+h1:hover{
+    color: #40c94b;
+    
+}
